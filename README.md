@@ -16,4 +16,4 @@ I'm an alum of [FRC Team 1678: Citrus Circuits](https://www.citruscircuits.org),
 
 ![Edwin Chang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwinChang24&show_icons=true&theme=github_dark&count_private=true)
 
-> **[Website](https://edwinchang.vercel.app/) • [Resume](https://edwinchang.vercel.app/resume.pdf) • [Contact me](mailto:&#101;dwinchang2024@gmail.com)**
+> **[Website](https://edwinchang.dev/) • [Resume](https://edwinchang.dev/resume.pdf) • [Contact me](mailto:&#101;dwinchang2024@gmail.com)**
