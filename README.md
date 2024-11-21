@@ -2,7 +2,7 @@
 
 I'm a curious developer always looking at the newest and coolest tech. I believe that modern software development should be easy and fun for everyone.
 
-This fall, I'll be a freshman at UC Santa Barbara's College of Creative Studies, where I'll be majoring in Computing.
+I'm currently a freshman at UC Santa Barbara's College of Creative Studies, where I'm majoring in Computing.
 
 ## 🧑‍💻 My Work
 
