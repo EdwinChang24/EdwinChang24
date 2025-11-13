@@ -12,8 +12,4 @@ I currently specialize in Kotlin, and I have experience working with the modern 
 
 I'm an alum of [FRC Team 1678: Citrus Circuits](https://www.citruscircuits.org), on which I've designed and implemented Android and desktop apps for a robot scouting system to perform strategic data analysis on teams' performance at competitions. Check out [our scouting system whitepaper from last season](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/whitepaper_2024_-_final.pdf).
 
-## 📊 Stats
-
-![Edwin Chang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwinChang24&show_icons=true&theme=github_dark&count_private=true)
-
 > **[Website](https://edwinchang.dev/) • [Resume](https://edwinchang.dev/resume.pdf) • [Contact me](mailto:&#101;dwinchang2024@gmail.com)**
